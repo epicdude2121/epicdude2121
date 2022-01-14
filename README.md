@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @epicdude2121
+- 👀 I’m interested in coding and making chrome extensions
+- 🌱 I’m currently learning how to make chrome extensions
